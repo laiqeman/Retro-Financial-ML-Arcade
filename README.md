@@ -73,7 +73,7 @@ For CSV uploads, the data should be in a format compatible with financial analys
 - Target variable (e.g., 'Close' price for stocks)
 
 ## 🌍 Deployment Link
-
+https://retro-financial-ml-arcade-7knm6kknqmaxytfecrxqw4.streamlit.app/
 
 ## 🔗 GitHub Repository  
 
