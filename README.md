@@ -76,7 +76,7 @@ For CSV uploads, the data should be in a format compatible with financial analys
 https://retro-financial-ml-arcade-7knm6kknqmaxytfecrxqw4.streamlit.app/
 
 ## 🔗 GitHub Repository  
-
+https://github.com/laiqeman/Retro-Financial-ML-Arcade
 
 ## Contributing
 
