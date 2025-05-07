@@ -1,5 +1,11 @@
 # Financial ML Arcade 🎮
 
+**FAST National University of Computer and Emerging Sciences, Islamabad**  
+👨‍🏫 **Instructor:** Dr. Usama Arshad *(Assistant Professor, FSM)*  
+🎓 **Program:** BS Financial Technology (BSFT)  
+📅 **Semester:** Spring 2025  
+
+## 📌 About This Project
 A retro-themed financial machine learning application built with Streamlit. This application allows users to perform end-to-end machine learning analysis on financial data, either from uploaded datasets or live stock data from Yahoo Finance.
 
 ## Features
@@ -65,6 +71,12 @@ For CSV uploads, the data should be in a format compatible with financial analys
 - Date column (if applicable)
 - Numeric columns for features
 - Target variable (e.g., 'Close' price for stocks)
+
+## 🌍 Deployment Link
+
+
+## 🔗 GitHub Repository  
+
 
 ## Contributing
 
